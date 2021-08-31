@@ -35,3 +35,5 @@ Reviewer, NeurIPS-AI4Science
 
 #### CSE 5360 Artificial Intelligence 
 
+## Contact
+Email: hehuan.ma at mavs.uta.edu
