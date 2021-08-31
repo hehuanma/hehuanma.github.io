@@ -29,11 +29,11 @@ Guo, Yuzhi, Jiaxiang Wu, **Hehuan Ma**, Sheng Wang, and Junzhou Huang. "Bagging 
 Reviewer, NeurIPS-AI4Science
 
 ## Teaching Assistant
-#### CSE 3320 Operating System
+CSE 3320 Operating System
 
-#### CSE 2312 Computer Organization and Assembly Language
+CSE 2312 Computer Organization and Assembly Language
 
-#### CSE 5360 Artificial Intelligence 
+CSE 5360 Artificial Intelligence 
 
 ## Contact
 Email: hehuan.ma at mavs.uta.edu
