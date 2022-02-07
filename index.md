@@ -26,7 +26,7 @@ Yang, Jinyu, Peilin Zhao, Yu Rong, Chaochao Yan, Chunyuan Li, **Hehuan Ma**, and
 Guo, Yuzhi, Jiaxiang Wu, **Hehuan Ma**, Sheng Wang, and Junzhou Huang. "Bagging msa learning: Enhancing low-quality pssm with deep learning for accurate protein structure property prediction." In International Conference on Research in Computational Molecular Biology, pp. 88-103. Springer, Cham, 2020.
 
 ## Services
-Reviewer, NeurIPS-AI4Science
+Reviewer: NeurIPS 2021 Workshop AI4Science; NeurIPS 2021 Workshop ELLIS ML4Molecules; ICLR 2022 DGM4HSD workshop
 
 ## Teaching Assistant
 CSE 3320 Operating System
